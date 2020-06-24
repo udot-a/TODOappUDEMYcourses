@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TODOappUDEMYcourses/static/css/main.8e16d8ba.chunk.css",
+    "main.js": "/TODOappUDEMYcourses/static/js/main.072012d4.chunk.js",
+    "main.js.map": "/TODOappUDEMYcourses/static/js/main.072012d4.chunk.js.map",
+    "runtime-main.js": "/TODOappUDEMYcourses/static/js/runtime-main.98e4cfb6.js",
+    "runtime-main.js.map": "/TODOappUDEMYcourses/static/js/runtime-main.98e4cfb6.js.map",
+    "static/js/2.c9d62512.chunk.js": "/TODOappUDEMYcourses/static/js/2.c9d62512.chunk.js",
+    "static/js/2.c9d62512.chunk.js.map": "/TODOappUDEMYcourses/static/js/2.c9d62512.chunk.js.map",
+    "index.html": "/TODOappUDEMYcourses/index.html",
+    "precache-manifest.e5009e3ed4d1fe53eaeaf997ad3ce7a2.js": "/TODOappUDEMYcourses/precache-manifest.e5009e3ed4d1fe53eaeaf997ad3ce7a2.js",
+    "service-worker.js": "/TODOappUDEMYcourses/service-worker.js",
+    "static/css/main.8e16d8ba.chunk.css.map": "/TODOappUDEMYcourses/static/css/main.8e16d8ba.chunk.css.map",
+    "static/js/2.c9d62512.chunk.js.LICENSE.txt": "/TODOappUDEMYcourses/static/js/2.c9d62512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e4cfb6.js",
+    "static/js/2.c9d62512.chunk.js",
+    "static/css/main.8e16d8ba.chunk.css",
+    "static/js/main.072012d4.chunk.js"
+  ]
+}
