@@ -1,0 +1,69 @@
+.tall {
+    font-weight: bold;
+    color: tomato;
+}
+
+.todoList {
+    padding: .25rem .75rem;
+}
+
+
+.todoApp {
+    margin: 2rem auto 0 auto;
+    max-width: 400px;
+}
+
+.topPanel {
+    margin: 1rem 0;
+}
+
+.searchInput {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
+
+.todoListItem {
+    font-size: 1.25rem;
+}
+
+.todoListItem button {
+    width: 35px;
+    margin: 3px;
+}
+
+.todoListItemLabel {
+    margin-left: 1.25rem;
+    line-height: 35px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.todoListItem.done .todoListItemLabel {
+    text-decoration: line-through;
+}
+
+.todoListItem.important .todoListItemLabel {
+    font-weight: bold;
+    color: steelblue;
+}
+
+.appHeader {
+    align-items: flex-end;
+}
+
+.appHeader h1 {
+    flex-grow: 1;
+}
+
+.appHeader h2 {
+    font-size: 1.2rem;
+    color: grey;
+}
+
+.itemAddForm {
+    margin-top: 10px;
+}
+.itemAddForm button {
+    margin-left: 10px;
+}
